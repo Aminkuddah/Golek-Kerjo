@@ -1,0 +1,30 @@
+html, body{
+    /* background-image: url(../img/maps.jpg); */
+    background-image: linear-gradient(to right,#1f4037,#99f2c8);
+    /* opacity: 0.9; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+#home{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 100vh; 
+    font-family: Kelly Slab;
+    font-size: 30px;
+    color: white;
+}
+.tabel th{
+    background-color: #555555;
+    font-family: Lato-Regular;
+    font-size: 25px;
+    color: #00ad5f;
+}
+.tabel td{
+    font-family: Lato-Regular;
+    font-size: 20px;
+    color: #808080;
+    line-height: 1.4;
+    background-color: #222222;
+}

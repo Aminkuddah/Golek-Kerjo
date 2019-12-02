@@ -1,0 +1,19 @@
+html, body{
+    background-image: url(../img/caripekerjaan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+#home{
+    /* background-image:url(../img/caripekerjaan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 100vh; 
+    width: 100%;
+    font-family: Kelly Slab;
+    font-size: 30px;
+    color: white;
+}

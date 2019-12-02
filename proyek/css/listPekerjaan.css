@@ -1,0 +1,67 @@
+body{
+    background-image: url(../img/gradien1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+#home{
+    /* background-image:url(../img/listPekerjaan.jpg); */
+    opacity: 100.5;
+    /* background-color: #3D3E3D;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    height : 100vh; 
+    font-family: Kelly Slab;
+    font-size: 30px;
+    color: white;
+}
+
+.tinjau card border {
+    padding: 5px;
+    text-align: center;
+}
+
+.konten p{
+    /* border-radius: 50%;
+    border: 3px solid whitesmoke;
+    width: 250px;
+    height: 250px; */
+    color: blue;
+}
+
+#more{
+    display: none;
+}
+button{
+    border: none;
+    outline:none;
+
+}
+
+.collapsible {
+    background-color: rgb(241, 234, 234);
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+    /* background-color: rgb(255, 255, 255); */
+    background-image: url(../img/gradien1.jpg);
+    color: white;
+  }
+  
+  .content {
+    background-image: url(../img/gradien1.jpg);
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    /* background-color: #302020; */
+    font-size: 25px;
+  }
